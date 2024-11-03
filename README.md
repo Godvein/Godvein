@@ -2,12 +2,6 @@
 <h3 align="center">A passionate learner from Nepal</h3>
 <img align="right" alt="Learning" width="400" src="https://gifdb.com/images/high/learning-in-progress-text-art-rmkayi71g2l6zciz.gif">
 
-- 🔭 I’m currently working on **Asynchronous programming**
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **java**
-
 - 📫 How to reach me **sabindware@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
