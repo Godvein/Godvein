@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Dware</h1>
-<h3 align="center">A passionate learner from Nepal</h3>
+<h3 align="center">I’m an eager learner with a growing interest in computer science fundamentals and backend development. I enjoy building my skills step by step and exploring how the basics connect to creating backend solutions.</h3>
 <img align="right" alt="Learning" width="400" src="https://gifdb.com/images/high/learning-in-progress-text-art-rmkayi71g2l6zciz.gif">
 
 - 📫 How to reach me **sabindware@gmail.com**
