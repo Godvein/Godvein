@@ -2,7 +2,7 @@
 <h3 align="center">I’m an eager learner with a growing interest in computer science fundamentals. I enjoy building my skills step by step and exploring how the basics connect to various domains in computer science.</h3>
 <img align="right" alt="Learning" width="400" src="https://gifdb.com/images/high/learning-in-progress-text-art-rmkayi71g2l6zciz.gif">
 
-- 📫 How to reach me **sabindware@gmail.com**
+- 📫 How to reach me **ankitdware101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
