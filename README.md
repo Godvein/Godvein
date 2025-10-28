@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Dware</h1>
-<h3 align="center">I’m an eager learner with a growing interest in computer science fundamentals. I enjoy building my skills step by step and exploring how the basics connect to various domains in computer science.</h3>
+<h3 align="center">I’m an eager learner with a growing interest in computer science and Information Technology fundamentals. I enjoy building my skills step by step and exploring how the basics connect to various domains in CS/IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godvein&label=Profile%20views&color=0e75b6&style=flat" alt="godvein" /> </p>
 
